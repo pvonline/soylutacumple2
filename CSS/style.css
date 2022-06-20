@@ -1,0 +1,30 @@
+.body {
+    margin: 0 auto;
+    padding: 0;
+    background: brown;
+    font-family: Roboto, sans-serif;
+    align-items: center;
+}
+
+
+.contenedor {
+    width: 50%;
+    max-width: 1200px;
+    overflow: hidden;
+    margin: auto;
+    padding: 20px 0;
+}
+
+
+
+.head{
+    padding: 0%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
